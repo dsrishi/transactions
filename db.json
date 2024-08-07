@@ -74,22 +74,6 @@
     },
     {
       "id": "10",
-      "month": "Oct 2023",
-      "date": "1 October 2023",
-      "type": "Expense",
-      "categories": "Transportation",
-      "amount": "50"
-    },
-    {
-      "id": "11",
-      "month": "Oct 2023",
-      "date": "1 October 2023",
-      "type": "Income",
-      "categories": "Rental income",
-      "amount": "900"
-    },
-    {
-      "id": "12",
       "month": "Sep 2023",
       "date": "30 September 2023",
       "type": "Expense",
@@ -97,7 +81,7 @@
       "amount": "600"
     },
     {
-      "id": "13",
+      "id": "11",
       "month": "Sep 2023",
       "date": "28 September 2023",
       "type": "Income",
@@ -105,15 +89,7 @@
       "amount": "1200"
     },
     {
-      "id": "14",
-      "month": "Sep 2023",
-      "date": "1 September 2023",
-      "type": "Expense",
-      "categories": "Transportation",
-      "amount": "50"
-    },
-    {
-      "id": "15",
+      "id": "12",
       "month": "Aug 2023",
       "date": "31 August 2023",
       "type": "Expense",
@@ -121,7 +97,7 @@
       "amount": "600"
     },
     {
-      "id": "16",
+      "id": "13",
       "month": "Aug 2023",
       "date": "28 August 2023",
       "type": "Income",
@@ -129,15 +105,7 @@
       "amount": "1200"
     },
     {
-      "id": "17",
-      "month": "Aug 2023",
-      "date": "1 August 2023",
-      "type": "Expense",
-      "categories": "Transportation",
-      "amount": "50"
-    },
-    {
-      "id": "18",
+      "id": "14",
       "month": "Jul 2023",
       "date": "31 July 2023",
       "type": "Expense",
@@ -145,7 +113,7 @@
       "amount": "600"
     },
     {
-      "id": "19",
+      "id": "14",
       "month": "Jul 2023",
       "date": "28 July 2023",
       "type": "Income",
@@ -153,23 +121,7 @@
       "amount": "1200"
     },
     {
-      "id": "20",
-      "month": "Jul 2023",
-      "date": "1 July 2023",
-      "type": "Expense",
-      "categories": "Transportation",
-      "amount": "50"
-    },
-    {
-      "id": "21",
-      "month": "Jul 2023",
-      "date": "1 July 2023",
-      "type": "Income",
-      "categories": "Rental income",
-      "amount": "900"
-    },
-    {
-      "id": "22",
+      "id": "15",
       "month": "Jun 2023",
       "date": "30 June 2023",
       "type": "Expense",
@@ -177,7 +129,7 @@
       "amount": "600"
     },
     {
-      "id": "23",
+      "id": "15",
       "month": "Jun 2023",
       "date": "28 June 2023",
       "type": "Income",
@@ -185,7 +137,7 @@
       "amount": "1000"
     },
     {
-      "id": "24",
+      "id": "16",
       "month": "Jun 2023",
       "date": "10 June 2023",
       "type": "Income",
@@ -193,15 +145,7 @@
       "amount": "100"
     },
     {
-      "id": "25",
-      "month": "Jun 2023",
-      "date": "1 June 2023",
-      "type": "Expense",
-      "categories": "Transportation",
-      "amount": "50"
-    },
-    {
-      "id": "26",
+      "id": "17",
       "month": "May 2023",
       "date": "31 May 2023",
       "type": "Expense",
@@ -209,7 +153,7 @@
       "amount": "600"
     },
     {
-      "id": "27",
+      "id": "18",
       "month": "May 2023",
       "date": "28 May 2023",
       "type": "Income",
@@ -217,15 +161,7 @@
       "amount": "1000"
     },
     {
-      "id": "28",
-      "month": "May 2023",
-      "date": "1 May 2023",
-      "type": "Expense",
-      "categories": "Transportation",
-      "amount": "50"
-    },
-    {
-      "id": "29",
+      "id": "19",
       "month": "Apr 2023",
       "date": "30 April 2023",
       "type": "Expense",
@@ -233,7 +169,7 @@
       "amount": "600"
     },
     {
-      "id": "30",
+      "id": "20",
       "month": "Apr 2023",
       "date": "28 April 2023",
       "type": "Income",
@@ -241,7 +177,7 @@
       "amount": "1000"
     },
     {
-      "id": "31",
+      "id": "21",
       "month": "Apr 2023",
       "date": "1 April 2023",
       "type": "Expense",
@@ -249,15 +185,7 @@
       "amount": "50"
     },
     {
-      "id": "32",
-      "month": "Apr 2023",
-      "date": "1 April 2023",
-      "type": "Income",
-      "categories": "Rental income",
-      "amount": "900"
-    },
-    {
-      "id": "33",
+      "id": "22",
       "month": "Mar 2023",
       "date": "31 March 2023",
       "type": "Expense",
@@ -265,7 +193,7 @@
       "amount": "600"
     },
     {
-      "id": "34",
+      "id": "23",
       "month": "Mar 2023",
       "date": "28 March 2023",
       "type": "Income",
@@ -273,15 +201,7 @@
       "amount": "1000"
     },
     {
-      "id": "35",
-      "month": "Mar 2023",
-      "date": "1 March 2023",
-      "type": "Expense",
-      "categories": "Transportation",
-      "amount": "50"
-    },
-    {
-      "id": "36",
+      "id": "24",
       "month": "Feb 2023",
       "date": "28 February 2023",
       "type": "Expense",
@@ -289,7 +209,7 @@
       "amount": "600"
     },
     {
-      "id": "37",
+      "id": "25",
       "month": "Feb 2023",
       "date": "28 February 2023",
       "type": "Income",
@@ -297,15 +217,7 @@
       "amount": "1000"
     },
     {
-      "id": "38",
-      "month": "Feb 2023",
-      "date": "1 February 2023",
-      "type": "Expense",
-      "categories": "Transportation",
-      "amount": "50"
-    },
-    {
-      "id": "39",
+      "id": "26",
       "month": "Jan 2023",
       "date": "31 January 2023",
       "type": "Expense",
@@ -313,7 +225,7 @@
       "amount": "600"
     },
     {
-      "id": "40",
+      "id": "27",
       "month": "Jan 2023",
       "date": "28 January 2023",
       "type": "Income",
@@ -321,7 +233,7 @@
       "amount": "1000"
     },
     {
-      "id": "41",
+      "id": "28",
       "month": "Jan 2023",
       "date": "1 January 2023",
       "type": "Expense",
@@ -329,7 +241,7 @@
       "amount": "50"
     },
     {
-      "id": "42",
+      "id": "29",
       "month": "Jan 2023",
       "date": "1 January 2023",
       "type": "Income",
